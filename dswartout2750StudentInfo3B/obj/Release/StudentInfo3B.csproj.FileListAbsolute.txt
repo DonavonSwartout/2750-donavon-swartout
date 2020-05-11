@@ -1,0 +1,3 @@
+C:\Users\Donavon Swartout\Documents\2750-donavon-swartout\dswartout2750StudentInfo3B\StudentInfo3B\obj\Release\StudentInfo3B.Form1.resources
+C:\Users\Donavon Swartout\Documents\2750-donavon-swartout\dswartout2750StudentInfo3B\StudentInfo3B\obj\Release\StudentInfo3B.Properties.Resources.resources
+C:\Users\Donavon Swartout\Documents\2750-donavon-swartout\dswartout2750StudentInfo3B\StudentInfo3B\obj\Release\StudentInfo3B.csproj.GenerateResource.cache
